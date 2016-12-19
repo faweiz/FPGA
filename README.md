@@ -2,7 +2,7 @@ Use VHDL to implement a simple digital Combination Locker State Machine on the N
 
 Project Detail: https://www.hackster.io/faweiz/fpga-combination-locker-vhdl-9bc475
 
-Project Video: https://www.youtube.com/watch?v=76s_FpcsXcY
+Project Video: https://www.youtube.com/watch?v=cchXZhZdQHY
 
 Github: https://github.com/faweiz
 
