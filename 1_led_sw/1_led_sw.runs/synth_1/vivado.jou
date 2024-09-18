@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Sep 17 21:44:41 2024
+# Process ID: 35372
+# Current directory: E:/FPGA/github/FPGA/1_led_sw/1_led_sw.runs/synth_1
+# Command line: vivado.exe -log led_sw_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_sw_top.tcl
+# Log file: E:/FPGA/github/FPGA/1_led_sw/1_led_sw.runs/synth_1/led_sw_top.vds
+# Journal file: E:/FPGA/github/FPGA/1_led_sw/1_led_sw.runs/synth_1\vivado.jou
+# Running On: Tony-VPI4CJD, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 34140 MB
+#-----------------------------------------------------------
+source led_sw_top.tcl -notrace
